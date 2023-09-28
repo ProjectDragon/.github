@@ -4,6 +4,6 @@
 We are a small indie game development team.
 
 ## 👨‍💻 Members
-- [Armin Pretorius](https://github.com/ProjectDragon)
-- [FluffyPandaBear](https://github.com/FluffyPandaBear)
-- [BFloBTW](https://github.com/BFloBTW)
+- [Armin Pretorius (mobile)](https://github.com/ProjectDragon)
+- [Nicholas Bishop (FluffyPandaBear)](https://github.com/FluffyPandaBear)
+- [Nathan Bishop (BFloBTW)](https://github.com/BFloBTW)
