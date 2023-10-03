@@ -13,3 +13,4 @@ We are a small indie game development team.
 ## 🚀 Projects
 |  Title  |  Technologies  |  Languages  |  Status  |  Version  |
 |-----|-----|-----|-----|-----|
+|[ProjectDragon Discord Bot](https://github.com/ProjectDragon/ProjectDragon-Discord-Bot)|Discord|Python|[![Done](https://img.shields.io/badge/-Done-green?style=flat-square&logoColor=white&link=https://github.com/ProjectDragon/ProjectDragon-Discord-Bot/)](https://github.com/ProjectDragon/ProjectDragon-Discord-Bot)|N/A|
